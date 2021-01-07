@@ -1,0 +1,533 @@
+﻿<Events>
+  <Event EventID="4643687">
+    <EventName>Lily Award: Direct Service Reflection</EventName>
+    <EventStartDateTime>2019-08-01T08:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T13:00:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4643687</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4645104">
+    <EventName>Lily Award: Awareness &amp; Advocacy Reflection</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>NA</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4645104</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4657221">
+    <EventName>Lily Award: Donation &amp; Fundraising Reflection</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>NA</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4657221</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4882853">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4882853</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4883105">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4883105</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4883120">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4883120</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4883121">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-07-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T13:00:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4883121</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4883122">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-07-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T13:00:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4883122</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4884231">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4884231</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4884232">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4884232</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4884233">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4884233</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4884234">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4884234</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4884235">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4884235</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4884236">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4884236</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4884237">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4884237</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4884238">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4884238</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4884239">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4884239</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="4884240">
+    <EventName>Lily Award: Direct Service Retroactive Progress</EventName>
+    <EventStartDateTime>2019-08-01T00:00:00</EventStartDateTime>
+    <EventEndDateTime>2029-07-31T23:45:00</EventEndDateTime>
+    <EventLocationDesc>N/A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/4884240</EventURL>
+    <EventType>Invitation Only</EventType>
+    <EventPrimaryHostOrgName>Center for Community Engagement &amp; Service Learning</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Community Engagement &amp; Service Learning</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6134083">
+    <EventName>Test RSVP</EventName>
+    <EventStartDateTime>2021-04-30T12:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-04-30T13:00:00</EventEndDateTime>
+    <EventLocationDesc>zoom</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6134083</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Student Involvement</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Student Involvement</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6142852">
+    <EventName>Training: Movie Night</EventName>
+    <EventStartDateTime>2022-10-03T11:15:00</EventStartDateTime>
+    <EventEndDateTime>2022-10-03T13:00:00</EventEndDateTime>
+    <EventLocationDesc>UC THeatre1</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6142852</EventURL>
+    <EventType>Organization Only</EventType>
+    <EventPrimaryHostOrgName>Last Minute Productions</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Last Minute Productions</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6182416">
+    <EventName>11th Annual Rooted in the Mountains Symposium</EventName>
+    <EventStartDateTime>2021-04-08T12:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-04-09T13:00:00</EventEndDateTime>
+    <EventLocationDesc>TBD</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6182416</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>DegreePlus</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>DegreePlus</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6620859">
+    <EventName>Internship Q&amp;A Webinar</EventName>
+    <EventStartDateTime>2021-01-27T16:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-01-27T17:00:00</EventEndDateTime>
+    <EventLocationDesc>Online</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6620859</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>Center for Career &amp; Professional Development</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Career &amp; Professional Development</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6620860">
+    <EventName>Internship Q&amp;A Webinar</EventName>
+    <EventStartDateTime>2021-02-05T12:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-02-05T13:00:00</EventEndDateTime>
+    <EventLocationDesc>Online</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6620860</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>Center for Career &amp; Professional Development</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Career &amp; Professional Development</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6620861">
+    <EventName>Internship Q&amp;A Webinar</EventName>
+    <EventStartDateTime>2021-02-16T16:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-02-16T17:00:00</EventEndDateTime>
+    <EventLocationDesc>Online</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6620861</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>Center for Career &amp; Professional Development</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Career &amp; Professional Development</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6620862">
+    <EventName>Internship Q&amp;A Webinar</EventName>
+    <EventStartDateTime>2021-02-26T12:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-02-26T13:00:00</EventEndDateTime>
+    <EventLocationDesc>Online</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6620862</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>Center for Career &amp; Professional Development</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Career &amp; Professional Development</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6620863">
+    <EventName>Internship Q&amp;A Webinar</EventName>
+    <EventStartDateTime>2021-03-02T12:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-03-02T13:00:00</EventEndDateTime>
+    <EventLocationDesc>Online</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6620863</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>Center for Career &amp; Professional Development</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Career &amp; Professional Development</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6633156">
+    <EventName>Adult CPR/AED and First Aid Certification Class</EventName>
+    <EventStartDateTime>2021-02-15T17:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-02-15T19:00:00</EventEndDateTime>
+    <EventLocationDesc>CRC Meeting Room 110</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6633156</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6633160">
+    <EventName>Adult CPR/AED and First Aid Certification Class</EventName>
+    <EventStartDateTime>2021-04-19T17:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-04-19T19:00:00</EventEndDateTime>
+    <EventLocationDesc>CRC Meeting Room 110</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6633160</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6633183">
+    <EventName>Lifeguarding Certification Course</EventName>
+    <EventStartDateTime>2021-02-12T17:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-02-14T17:00:00</EventEndDateTime>
+    <EventLocationDesc>Reid Pool</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6633183</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6633193">
+    <EventName>Lifeguarding Re-Certification Course</EventName>
+    <EventStartDateTime>2021-02-27T08:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-02-27T17:00:00</EventEndDateTime>
+    <EventLocationDesc>Reid Pool</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6633193</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6637592">
+    <EventName>Catamounts Outdoors: Leave No Trace Awareness Workshop</EventName>
+    <EventStartDateTime>2021-03-27T09:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-03-27T12:00:00</EventEndDateTime>
+    <EventLocationDesc>WCU Trail System</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6637592</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6637593">
+    <EventName>Catamounts Outdoors: Outdoor Photography 101 (Cell Phone)</EventName>
+    <EventStartDateTime>2021-04-07T17:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-04-07T20:00:00</EventEndDateTime>
+    <EventLocationDesc>WCU Trail System</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6637593</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6637595">
+    <EventName>Catamounts Outdoors: Terrestrial Macroinvertebrate Hike</EventName>
+    <EventStartDateTime>2021-04-10T14:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-04-10T17:00:00</EventEndDateTime>
+    <EventLocationDesc>WCU Trail System</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6637595</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6637599">
+    <EventName>Catamounts Outdoors: Tree and Plant Identification Hike</EventName>
+    <EventStartDateTime>2021-04-17T09:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-04-17T12:00:00</EventEndDateTime>
+    <EventLocationDesc>WCU Trail System</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6637599</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6637621">
+    <EventName>Catamounts Outdoors: Outdoor Photography 201 (Cell Phone)</EventName>
+    <EventStartDateTime>2021-04-21T17:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-04-21T20:00:00</EventEndDateTime>
+    <EventLocationDesc>WCU Trail System</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6637621</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6637625">
+    <EventName>Catamounts Outdoors: Destressor and Mindfulness Hike</EventName>
+    <EventStartDateTime>2021-05-05T16:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-05-05T18:00:00</EventEndDateTime>
+    <EventLocationDesc>WCU Trail System</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6637625</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6637635">
+    <EventName>Full Moon Night Hike</EventName>
+    <EventStartDateTime>2021-01-28T18:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-01-28T22:00:00</EventEndDateTime>
+    <EventLocationDesc>WCU Trail System</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6637635</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6637639">
+    <EventName>Rope Rug Making Workshop</EventName>
+    <EventStartDateTime>2021-03-16T17:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-03-16T19:00:00</EventEndDateTime>
+    <EventLocationDesc>Campus Recreation Center</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6637639</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Department of Campus Recreation and Wellness</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Department of Campus Recreation and Wellness</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6639902">
+    <EventName>MLK Jr. Keynote Speaker</EventName>
+    <EventStartDateTime>2021-01-26T18:30:00</EventStartDateTime>
+    <EventEndDateTime>2021-01-26T20:00:00</EventEndDateTime>
+    <EventLocationDesc>Virtual</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6639902</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>Department of Intercultural Affairs</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Office of Equal Opportunity &amp; Diversity Programs</HostOrganizationName>
+    </EventHosts>
+    <EventHosts>
+      <HostOrganizationName>Department of Intercultural Affairs</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6644680">
+    <EventName>Major Exploration - Designing Your Path Crash Courses</EventName>
+    <EventStartDateTime>2021-02-08T13:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-03-05T11:30:00</EventEndDateTime>
+    <EventLocationDesc>Reid 151A</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6644680</EventURL>
+    <EventType>Public</EventType>
+    <EventPrimaryHostOrgName>Center for Career &amp; Professional Development</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Center for Career &amp; Professional Development</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6646491">
+    <EventName>Take and Make: Mural *RSVP Required*</EventName>
+    <EventStartDateTime>2021-01-26T18:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-01-26T18:30:00</EventEndDateTime>
+    <EventLocationDesc>AK Hinds University Center- Multipurpose Room</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6646491</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Last Minute Productions</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Last Minute Productions</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6646492">
+    <EventName>Take and Make: Mural *RSVP Required*</EventName>
+    <EventStartDateTime>2021-01-26T18:30:00</EventStartDateTime>
+    <EventEndDateTime>2021-01-26T19:00:00</EventEndDateTime>
+    <EventLocationDesc>AK Hinds University Center- Multipurpose Room</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6646492</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Last Minute Productions</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Last Minute Productions</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6646493">
+    <EventName>Take and Make: Mural *RSVP Required*</EventName>
+    <EventStartDateTime>2021-01-26T19:00:00</EventStartDateTime>
+    <EventEndDateTime>2021-01-26T19:30:00</EventEndDateTime>
+    <EventLocationDesc>AK Hinds University Center- Multipurpose Room</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6646493</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Last Minute Productions</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Last Minute Productions</HostOrganizationName>
+    </EventHosts>
+  </Event>
+  <Event EventID="6646494">
+    <EventName>Take and Make: Mural *RSVP Required*</EventName>
+    <EventStartDateTime>2021-01-26T19:30:00</EventStartDateTime>
+    <EventEndDateTime>2021-01-26T20:00:00</EventEndDateTime>
+    <EventLocationDesc>AK Hinds University Center- Multipurpose Room</EventLocationDesc>
+    <EventURL>https://wcu.campuslabs.com/engage/event/6646494</EventURL>
+    <EventType>Campus Only</EventType>
+    <EventPrimaryHostOrgName>Last Minute Productions</EventPrimaryHostOrgName>
+    <EventHosts>
+      <HostOrganizationName>Last Minute Productions</HostOrganizationName>
+    </EventHosts>
+  </Event>
+</Events>
